@@ -1,5 +1,7 @@
 # clay-kiln
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clay/clay-kiln.svg)](https://greenkeeper.io/)
+
 [![Coverage Status](https://coveralls.io/repos/nymag/clay-kiln/badge.svg?branch=master&service=github&t=C3xeVy)](https://coveralls.io/github/nymag/clay-kiln?branch=master)
 
 🔥 Editing tools for Clay
